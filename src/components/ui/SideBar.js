@@ -7,7 +7,7 @@ import {
   Typography,
 } from "@mui/material";
 import Image from "next/image";
-import React from "react";
+;
 import sideBarImg from "@/assets/side-top-news.png";
 import blankImage from "@/assets/blankImage.png";
 import sideBottomImg from "@/assets/side-bottom-img.png";

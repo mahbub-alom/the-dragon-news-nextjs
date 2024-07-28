@@ -1,7 +1,7 @@
 import LatestNews from "@/components/ui/LatestNews";
 import SideBar from "@/components/ui/SideBar";
 import { Box, Grid } from "@mui/material";
-import React from "react";
+;
 
 const HomePage = () => {
   return (

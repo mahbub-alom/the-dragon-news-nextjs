@@ -1,5 +1,5 @@
 import { Box, Container, Typography } from "@mui/material";
-import React from "react";
+;
 import logo from "@/assets/The Dragon News.png";
 import Image from "next/image";
 import { showCurrentDate } from "@/utilies/getCurrentDate";
