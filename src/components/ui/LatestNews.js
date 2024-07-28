@@ -29,7 +29,7 @@ const LatestNews = () => {
           </Typography>
           <Typography variant="body2" color="text.secondary">
             It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at it's layout.......
+            the readable content of a page when looking at its layout.......
           </Typography>
         </CardContent>
       </Card>
@@ -48,7 +48,7 @@ const LatestNews = () => {
               </Typography>
               <Typography variant="body2" color="text.secondary">
                 It is a long established fact that a reader will be distracted
-                by the readable content of a page when looking at it's
+                by the readable content of a page when looking at its
                 layout.......
               </Typography>
             </CardContent>
@@ -68,7 +68,7 @@ const LatestNews = () => {
               </Typography>
               <Typography variant="body2" color="text.secondary">
                 It is a long established fact that a reader will be distracted
-                by the readable content of a page when looking at it's
+                by the readable content of a page when looking at its
                 layout.......
               </Typography>
             </CardContent>
@@ -88,7 +88,7 @@ const LatestNews = () => {
               </Typography>
               <Typography variant="body2" color="text.secondary">
                 It is a long established fact that a reader will be distracted
-                by the readable content of a page when looking at it's
+                by the readable content of a page when looking at its
                 layout.......
               </Typography>
             </CardContent>
@@ -108,7 +108,7 @@ const LatestNews = () => {
               </Typography>
               <Typography variant="body2" color="text.secondary">
                 It is a long established fact that a reader will be distracted
-                by the readable content of a page when looking at it's
+                by the readable content of a page when looking at its
                 layout.......
               </Typography>
             </CardContent>
